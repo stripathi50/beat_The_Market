@@ -1,6 +1,1 @@
-Run file Data pre-processing
-Result in new dataset 
-Run el0_fighter_win_probability file
-Result in new dataset
-Run Glicko2_probaility_win file
-Result in new dataset
+Run file Data pre-processing which results in new dataset. Then Run el0_fighter_win_probability file which results in new dataset. Then run Glicko2_probaility_win file which results in new dataset
